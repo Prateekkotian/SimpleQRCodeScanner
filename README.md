@@ -1,0 +1,2 @@
+# SimpleQRCodeScanner
+QR Code Scanner
